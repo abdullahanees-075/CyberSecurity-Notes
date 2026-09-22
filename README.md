@@ -22,7 +22,7 @@ Documenting my progress through the HTB Academy Certified Cybersecurity Analyst 
 ## 📜 Certifications & Courses
 - **[Fortinet NSE](./03-certifications/fortinet-nse)** — Introduction to the Threat Landscape
 - **[IBM Cybersecurity](./03-certifications/ibm-cybersecurity)** — Cybersecurity & Data Analytics Fundamentals
-- **[Cisco CSA]— TCP/IP, OSI model, routing protocols, and subnetting
+-  Cisco CSA — TCP/IP, OSI model, routing protocols, and subnetting
 
 ---
 
